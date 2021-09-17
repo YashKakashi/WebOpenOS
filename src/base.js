@@ -1,0 +1,8 @@
+/**
+ *
+ */
+
+class base_binder {
+
+
+}
