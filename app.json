@@ -1,0 +1,6 @@
+{
+  "name": "Web Open OS made on NodeJS",
+  "description": "Currently does nothing",
+  "repository": "https://github.com/YashKakashi/WebOpenOS",
+  "keywords": ["node", "express", "static"]
+}
